@@ -1,5 +1,8 @@
 _repo: Huutolaistytto-Kuvaus-kovilta-ajoilta_51339
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Meriläinen, Heikki
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6659
     wikipedia: http://fi.wikipedia.org/wiki/Heikki_Meril%C3%A4inen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51339#Huutolaistytto-Kuvaus-kovilta-ajoilta
 gutenberg_issued: '2016-03-01'
 gutenberg_type: Text
 identifiers:
